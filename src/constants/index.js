@@ -296,7 +296,7 @@ const games = [
 			},
 		],
 		image: hangman,
-		source_code_link: "https://github.com/",
+		source_code_link: "https://dsaar.github.io/portfolio-Daniel-Saar/Projects/js-projects/hangman-game/index.html",
 	},
 	{
 		name: "Frogger",
