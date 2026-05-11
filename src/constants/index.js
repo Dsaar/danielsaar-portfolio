@@ -317,7 +317,7 @@ const games = [
 			},
 		],
 		image: frogger,
-		source_code_link: "https://github.com/",
+		source_code_link: "https://dsaar.github.io/portfolio-Daniel-Saar/Projects/js-projects/frogger-game/index.html",
 	},
 	{
 		name: "Tic-Tac-Toe",
@@ -338,7 +338,7 @@ const games = [
 			},
 		],
 		image: tictactoe,
-		source_code_link: "https://github.com/",
+		source_code_link: "https://dsaar.github.io/portfolio-Daniel-Saar/Projects/js-projects/ticTacToe-game/index.html",
 	},
 	{
 		name: "Memory-Game",
@@ -359,7 +359,7 @@ const games = [
 			},
 		],
 		image: memory,
-		source_code_link: "https://github.com/",
+		source_code_link: "https://dsaar.github.io/portfolio-Daniel-Saar/Projects/js-projects/memory-game/index.html",
 	},
 	{
 		name: "Pac-Man",
@@ -380,7 +380,7 @@ const games = [
 			},
 		],
 		image: pacman,
-		source_code_link: "https://github.com/",
+		source_code_link: "https://dsaar.github.io/portfolio-Daniel-Saar/Projects/js-projects/pacman-game/index.html",
 	},
 	{
 		name: "Snake",
@@ -401,7 +401,7 @@ const games = [
 			},
 		],
 		image: snake,
-		source_code_link: "https://github.com/",
+		source_code_link: "https://dsaar.github.io/portfolio-Daniel-Saar/Projects/js-projects/snake-game/index.html",
 	},
 	{
 		name: "Samurai-Fight",
@@ -422,7 +422,7 @@ const games = [
 			},
 		],
 		image: samurai,
-		source_code_link: "https://github.com/",
+		source_code_link: "https://dsaar.github.io/portfolio-Daniel-Saar/Projects/js-projects/fighting-game/index.html",
 	},
 	{
 		name: "To-Do-List",
@@ -443,7 +443,7 @@ const games = [
 			},
 		],
 		image: todo,
-		source_code_link: "https://github.com/",
+		source_code_link: "https://dsaar.github.io/portfolio-Daniel-Saar/Projects/js-projects/todolist-app/index.html",
 	},
 	{
 		name: "Catch the Presents",
@@ -464,7 +464,7 @@ const games = [
 			},
 		],
 		image: present,
-		source_code_link: "https://github.com/",
+		source_code_link: "https://dsaar.github.io/portfolio-Daniel-Saar/Projects/js-projects/basket-game/index.html",
 	},
 ]
 
