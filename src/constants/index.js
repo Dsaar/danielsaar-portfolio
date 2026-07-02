@@ -475,20 +475,20 @@ const landingPages = [
 			"EcoTrack is a full-stack sustainability and community engagement platform designed to encourage environmentally positive actions through mission-based gamification, impact tracking, and real-time user interaction.",
 		tags: [
 			{
-				name: "react",
+				name: "html",
 				color: "blue-text-gradient",
 			},
 			{
-				name: "mongodb",
+				name: "css",
 				color: "green-text-gradient",
 			},
 			{
-				name: "nodejs",
+				name: "xd",
 				color: "pink-text-gradient",
 			},
 		],
 		image: herenow,
-		source_code_link: "https://github.com/Dsaar/ecotrack.git",
+		source_code_link: "https://dsaar.github.io/portfolio-Daniel-Saar/Projects/ls-projects/Here%20&%20Now/index.html",
 	},
 	{
 		name: "Coffee",
@@ -496,20 +496,20 @@ const landingPages = [
 			"Wander Notes is a full-stack travel blog and diary platform designed to let users document journeys, discover travel stories, and interact with content through article publishing, tag-based exploration, commenting, and user-focused features.",
 		tags: [
 			{
-				name: "react",
+				name: "html",
 				color: "blue-text-gradient",
 			},
 			{
-				name: "DjangoRestFramework",
+				name: "css",
 				color: "green-text-gradient",
 			},
 			{
-				name: "python",
+				name: "xd",
 				color: "pink-text-gradient",
 			},
 		],
 		image: coffee,
-		source_code_link: "https://github.com/Dsaar/django-project.git",
+		source_code_link: "https://dsaar.github.io/portfolio-Daniel-Saar/Projects/ls-projects/Good%20Morning%20Coffee/index.html",
 	},
 	{
 		name: "Follow Our Lead",
@@ -517,20 +517,20 @@ const landingPages = [
 			"A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
 		tags: [
 			{
-				name: "nextjs",
+				name: "html",
 				color: "blue-text-gradient",
 			},
 			{
-				name: "supabase",
+				name: "css",
 				color: "green-text-gradient",
 			},
 			{
-				name: "css",
+				name: "bootstrap",
 				color: "pink-text-gradient",
 			},
 		],
 		image: followlead,
-		source_code_link: "https://github.com/",
+		source_code_link: "https://dsaar.github.io/portfolio-Daniel-Saar/Projects/ls-projects/Follow%20our%20Lead/index.html",
 	},
 ];
 
