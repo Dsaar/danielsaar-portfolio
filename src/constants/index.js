@@ -22,7 +22,7 @@ import {
 	carrent,
 	jobit,
 	tripguide,
-	Threejs,
+	threejs,
 	ecotrack,
 	wandernotes,
 	hangman,
@@ -112,7 +112,7 @@ const technologies = [
 	},
 	{
 		name: "Three JS",
-		icon: Threejs,
+		icon: threejs,
 	},
 	{
 		name: "git",
