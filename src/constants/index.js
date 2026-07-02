@@ -472,7 +472,7 @@ const landingPages = [
 	{
 		name: "Here & Now",
 		description:
-			"EcoTrack is a full-stack sustainability and community engagement platform designed to encourage environmentally positive actions through mission-based gamification, impact tracking, and real-time user interaction.",
+			"The Here & Now project is a landing page created according to the design of an XD sheet. Using HTML and CSS, it is responsive to both mobile phones and desktops.",
 		tags: [
 			{
 				name: "html",
@@ -493,7 +493,7 @@ const landingPages = [
 	{
 		name: "Coffee",
 		description:
-			"Wander Notes is a full-stack travel blog and diary platform designed to let users document journeys, discover travel stories, and interact with content through article publishing, tag-based exploration, commenting, and user-focused features.",
+			"The Coffee project is a landing page created according to the design of an XD sheet. Using HTML and CSS, it is responsive to both mobile phones and desktops.",
 		tags: [
 			{
 				name: "html",
@@ -514,7 +514,7 @@ const landingPages = [
 	{
 		name: "Follow Our Lead",
 		description:
-			"A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+			"The Follow Our Lead project is a landing page created according to the design of an XD sheet. Using HTML, CSS, & Bootstrap, it is responsive to both mobile phones and desktops.",
 		tags: [
 			{
 				name: "html",
@@ -526,6 +526,10 @@ const landingPages = [
 			},
 			{
 				name: "bootstrap",
+				color: "purple-text-gradient",
+			},
+			{
+				name: "xd",
 				color: "pink-text-gradient",
 			},
 		],
