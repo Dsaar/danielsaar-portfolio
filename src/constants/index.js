@@ -36,7 +36,9 @@ import {
 	present,
 	herenow,
 	coffee,
-	followlead
+	followlead,
+	outsidebox,
+	freeconsult
 } from "../assets";
 
 export const navLinks = [
@@ -510,6 +512,73 @@ const landingPages = [
 		],
 		image: coffee,
 		source_code_link: "https://dsaar.github.io/portfolio-Daniel-Saar/Projects/ls-projects/Good%20Morning%20Coffee/index.html",
+	},
+	{
+		name: "Follow Our Lead",
+		description:
+			"The Follow Our Lead project is a landing page created according to the design of an XD sheet. Using HTML, CSS, & Bootstrap, it is responsive to both mobile phones and desktops.",
+		tags: [
+			{
+				name: "html",
+				color: "blue-text-gradient",
+			},
+			{
+				name: "css",
+				color: "green-text-gradient",
+			},
+			{
+				name: "bootstrap",
+				color: "purple-text-gradient",
+			},
+			{
+				name: "xd",
+				color: "pink-text-gradient",
+			},
+		],
+		image: followlead,
+		source_code_link: "https://dsaar.github.io/portfolio-Daniel-Saar/Projects/ls-projects/Follow%20our%20Lead/index.html",
+	},
+	{
+		name: "Outside The Box",
+		description:
+			"The Outside The Box project is a landing page created according to the design of an XD sheet. Using HTML and CSS, it is responsive to both mobile phones and desktops.",
+		tags: [
+			{
+				name: "html",
+				color: "blue-text-gradient",
+			},
+			{
+				name: "css",
+				color: "green-text-gradient",
+			},
+			{
+				name: "xd",
+				color: "pink-text-gradient",
+			},
+		],
+		image: outsidebox,
+		source_code_link: "https://dsaar.github.io/portfolio-Daniel-Saar/Projects/ls-projects/Outside%20the%20Box/index.html",
+	},
+	{
+		name: "Free Consultaion",
+		description:
+			"The Free Consultation project is a landing page created according to the design of an XD sheet. Using HTML and CSS, it is responsive to both mobile phones and desktops.",
+		tags: [
+			{
+				name: "html",
+				color: "blue-text-gradient",
+			},
+			{
+				name: "css",
+				color: "green-text-gradient",
+			},
+			{
+				name: "xd",
+				color: "pink-text-gradient",
+			},
+		],
+		image: freeconsult,
+		source_code_link: "https://dsaar.github.io/portfolio-Daniel-Saar/Projects/ls-projects/Free%20Consultation/index.html",
 	},
 	{
 		name: "Follow Our Lead",
