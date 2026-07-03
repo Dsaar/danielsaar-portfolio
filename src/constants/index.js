@@ -38,7 +38,9 @@ import {
 	coffee,
 	followlead,
 	outsidebox,
-	freeconsult
+	freeconsult,
+	trailblazer,
+	discover
 } from "../assets";
 
 export const navLinks = [
@@ -581,9 +583,9 @@ const landingPages = [
 		source_code_link: "https://dsaar.github.io/portfolio-Daniel-Saar/Projects/ls-projects/Free%20Consultation/index.html",
 	},
 	{
-		name: "Follow Our Lead",
+		name: "Lead The Way",
 		description:
-			"The Follow Our Lead project is a landing page created according to the design of an XD sheet. Using HTML, CSS, & Bootstrap, it is responsive to both mobile phones and desktops.",
+			"The Lead The Way project is a landing page created according to the design of an XD sheet. Using HTML and CSS, it is responsive to both mobile phones and desktops.",
 		tags: [
 			{
 				name: "html",
@@ -594,16 +596,33 @@ const landingPages = [
 				color: "green-text-gradient",
 			},
 			{
-				name: "bootstrap",
-				color: "purple-text-gradient",
+				name: "xd",
+				color: "pink-text-gradient",
+			},
+		],
+		image: trailblazer,
+		source_code_link: "https://dsaar.github.io/portfolio-Daniel-Saar/Projects/ls-projects/Lead%20The%20Way/index.html",
+	},
+	{
+		name: "Discover The World",
+		description:
+			"The Discover The World project is a landing page created according to the design of an XD sheet. Using HTML and CSS, it is responsive to both mobile phones and desktops.",
+		tags: [
+			{
+				name: "html",
+				color: "blue-text-gradient",
+			},
+			{
+				name: "css",
+				color: "green-text-gradient",
 			},
 			{
 				name: "xd",
 				color: "pink-text-gradient",
 			},
 		],
-		image: followlead,
-		source_code_link: "https://dsaar.github.io/portfolio-Daniel-Saar/Projects/ls-projects/Follow%20our%20Lead/index.html",
+		image: discover,
+		source_code_link: "https://dsaar.github.io/portfolio-Daniel-Saar/Projects/ls-projects/See%20The%20World/index.html",
 	},
 ];
 
