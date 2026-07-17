@@ -32,6 +32,7 @@ import tripguide from "./tripguide.png";
 
 import ecotrack from './Ecotrack.png';
 import wandernotes from './WanderNotes.png';
+import signalist from './signalist.png'
 
 import hangman from './hangman-game.png';
 import frogger from './frogger-game.png';
@@ -101,5 +102,6 @@ export {
   outsidebox,
   freeconsult,
   trailblazer,
-  discover
+  discover,
+  signalist
 };

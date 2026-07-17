@@ -40,7 +40,8 @@ import {
 	outsidebox,
 	freeconsult,
 	trailblazer,
-	discover
+	discover,
+	signalist
 } from "../assets";
 
 export const navLinks = [
@@ -258,25 +259,25 @@ const projects = [
 		source_code_link: "https://github.com/Dsaar/django-project.git",
 	},
 	{
-		name: "Trip Guide",
+		name: "Signalist",
 		description:
-			"A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+			"An AI-powered, event-driven platform delivering real-time financial insights, automated user alerts, and custom sentiment digests. Built with Next.js 15, Inngest, and Google Gemini, Signalist is a dynamic command center for modern investors.",
 		tags: [
 			{
 				name: "nextjs",
 				color: "blue-text-gradient",
 			},
 			{
-				name: "supabase",
+				name: "tailwind",
 				color: "green-text-gradient",
 			},
 			{
-				name: "css",
+				name: "shadcn",
 				color: "pink-text-gradient",
 			},
 		],
-		image: tripguide,
-		source_code_link: "https://github.com/",
+		image: signalist,
+		source_code_link: "https://github.com/Dsaar/signalist_stock-tracker-app.git",
 	},
 ];
 
